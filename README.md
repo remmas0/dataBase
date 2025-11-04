@@ -24,8 +24,6 @@ This project is a simple PHP web application that allows users to submit names a
 ![Database](2.png)
 
 ## File Included
-- `testin.php` 
 
-
-       status TINYINT(1)
+| `testin.php` |
    );
