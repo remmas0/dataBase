@@ -25,5 +25,4 @@ This project is a simple PHP web application that allows users to submit names a
 
 ## File Included
 
-| `testin.php` |
-   );
+| [`testin.php`](https://github.com/remmas0/dataBase/blob/main/testin.php) |
